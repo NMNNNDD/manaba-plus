@@ -23,17 +23,6 @@
   "content_scripts": [
     {
       "matches": [
-        "https://gakunin-idp.c.chuo-u.ac.jp/sso/timeout.cgi*"
-      ],
-      "js": [
-        "timeout.js"
-      ],
-      "css": [
-        "style.css"
-      ]
-    },
-    {
-      "matches": [
         "https://hgu.manaba.jp/ct/course_*"
       ],
       "js": [
