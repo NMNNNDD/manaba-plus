@@ -34,7 +34,7 @@
     },
     {
       "matches": [
-        "https://room.chuo-u.ac.jp/ct/course*_report_*"
+        "https://hgu.manaba.jp/ct/course_*"
       ],
       "js": [
         "drop-file.js"
@@ -45,7 +45,7 @@
     },
     {
       "matches": [
-        "https://room.chuo-u.ac.jp/ct/home"
+        "https://hgu.manaba.jp/ct/home"
       ],
       "js": [
         "home.js"
@@ -64,7 +64,7 @@
         "options.html"
       ],
       "matches": [
-        "https://room.chuo-u.ac.jp/*"
+        "https://hgu.manaba.jp/ct/*"
       ]
     }
   ]
